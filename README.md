@@ -1,16 +1,71 @@
-## Hi there 👋
+# 나의 첫 GitHub Markdown 연습
 
-<!--
-**seune-h0203/seune-h0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 자기소개
 
-Here are some ideas to get you started:
+안녕하세요! 저는 홍길동입니다. 컴퓨터 관련 공부를 하는 학생입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 관심 분야
+
+- 프로그래밍
+  - Python
+  - JavaScript
+- 스타트업
+- 사회 데이터 분석
+
+### 프로젝트 경험
+
+1. 나만의 홈페이지 만들기
+2. Todo 리스트 앱 제작하기
+3. 날씨 데이터 크롤링하기
+
+### 내가 좋아하는 명언
+
+> "시작이 반이다."
+
+### 간단한 코드 예시
+
+다음은 Python에서 간단한 코드를 표현합니다.
+
+```python
+def greet(name):
+    print(f"안녕하세요, {name}님!")
+
+greet("홍길동")
+```
+
+## 링크와 이미지
+
+[Google로 가기](https://www.google.com)
+
+귀여운 고양이 이미지:
+
+<img width="479" height="360" alt="image" src="https://github.com/user-attachments/assets/326cff17-8f4e-4c9b-8087-56b9c41a8756" />
+
+### 할 일 목록
+
+- [x] 깃허브 계정 만들기
+- [x] 리포지토리 생성하기
+- [ ] README 작성하기
+- [ ] 이슈 등록하기
+
+### 테이블 작성하기
+
+| 이름 | 나이 | 취미 |
+|---|---:|---|
+| 홍길동 | 25 | 독서 |
+| 이영희 | 23 | 여행 |
+| 김철수 | 28 | 사이클링 |
+
+### 인용문(Blockquote)
+
+> "시작이 반이다."
+
+### 강조하기
+
+- **굵은 글씨**
+- *기울임*
+- ~~취소선~~
+
+---
+
+감사합니다
